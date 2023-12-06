@@ -1,5 +1,6 @@
 Le programme associé à la SPEC_5 est GenerateurGraph.js.
 Pour le lancer indépendamment du main, l'utilisateur doit s'assurer que le chemin du terminal mène au dossier SPEC_5 contenant le programme.
+Ensuite, avant toute chose, il est nécessaire d'installer Vegalite en écrivant npm install vega-lite dans le terminal.
 Pour activer le programme efficacement, il faut s'assurer qu'il existe des fichiers .gift dans le répertoire (fichiers constitués de questions d'examens).
 
 Pour générer des fichiers .gift, il est possible de récupérer les 2 fichiers du dossier FonctionsSupplementaires (GenerateurExamens.js et ListTotQ.txt) et de les ajouter au répertoire SPEC_5.
